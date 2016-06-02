@@ -1,0 +1,27 @@
+<div itemscope itemtype="http://schema.org/Person">
+	<span itemprop="givenName">Brian</span>
+	<span itemprop="familyName">Gorman</span>
+	<span itemprop="givenName">Brian</span>
+	<span itemprop="jobTitle">Carpenter, Joiner</span>
+    <span itemprop="url">https://www.facebook.com/brian.gorman.129</span>
+    
+	<span itemprop="owns">
+		<div itemscope itemtype="http://schema.org/LocalBusiness">
+			<span itemprop="name">Lough Rynn Gatehouse Bed and Breakfast>/span>
+			<span itemprop="address">Rynn, Mohill, Co. Leitrim</span>
+           <span itemprop="url">http://www.loughrynngatehousebandb.ie/></span>
+        <span itemprop="hasMap">
+https://www.google.ie/maps/@53.904477,-7.850177,17z
+		</span>
+		</div>
+	</span>
+	
+	<span itemprop="knows">David Sheridan</span>
+		<div itemscope itemtype="http://schema.org/Person">
+		<span itemprop="givenName">David</span>
+		<span itemprop="familyName">Sheridan</span>
+		<span itemprop="givenName">Brian</span>
+		<span itemprop="jobTitle">Director</span>
+	    <span itemprop="url">https://www.facebook.com/brian.gorman.129</span>
+	</span>
+</div>

@@ -1,0 +1,15 @@
+<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+<a itemprop="url" href="http://garda.ie/">
+<div itemprop="name"><strong>An Garda Siochana</strong></div>
+</a>
+<div itemprop="description">The Irish Police Force</div>
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<span itemprop="streetAddress">Pheonix Park</span><br>
+<span itemprop="addressLocality">Dublin</span><br>
+<span itemprop="addressRegion">8</span><br>
+<span itemprop="postalCode">D08 HN3X</span><br>
+<span itemprop="addressCountry">Ireland</span><br>
+<br>
+<span itemprop="telephone">Ireland</span>+353 1 666 0000<br>
+</div>
+</div>

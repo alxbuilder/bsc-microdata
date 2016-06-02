@@ -1,0 +1,11 @@
+<div itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href="http://angelinux.hopto.org/"><div itemprop="name"><strong>Mel McWeeney</strong></div>
+</a>
+<div itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Midas Technologies</span></div><div itemprop="jobtitle">Linux Dev-Ops Specialist</div>
+<div itemprop="description">Hacker, swimmer, troubleshooter.</div>
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<div itemprop="streetAddress">15 Ardnacassa Lawns</div>
+<div><span itemprop="addressLocality">Longford</span>, <span itemprop="addressRegion">Co. Longford</span></div><div itemprop="addressCountry">Ireland</div>
+</div>
+<div itemprop="telephone">(043)3347697</div>
+</div>
