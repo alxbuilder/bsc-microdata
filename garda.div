@@ -1,20 +1,20 @@
-<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 	<span lang="ga_IE" itemprop="name">An Gárda Síochana</span>
 	<a itemprop="url" href="http://garda.ie/"></a>
 	<span itemprop="description">The Irish Police Force</span>
 
-	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 		<span itemprop="streetAddress">Pheonix Park</span>
 		<span itemprop="addressLocality">Dublin</span>
 		<span itemprop="addressRegion">8</span>
 		<span itemprop="postalCode">D08 HN3X</span>
 		<span itemprop="addressCountry">Ireland</span>
 		<span itemprop="telephone">01 666 0000</span>
-	</div>
+	</span>
 	
 	<span itemprop="memberOf">
 
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name" lang="ga_IE">Dáil Éireann</span>
 			<a itemprop="url" href="http://gov.ie/"></a>
 			<span itemprop="description">The Government of Ireland</span>
@@ -23,7 +23,7 @@
 				<span itemprop="addressLocality">Dublin</span>
 				<span itemprop="addressCountry">Ireland</span>
 			</span>
-		</div>
+		</span>
 
 	</span>
-</div>
+</span>

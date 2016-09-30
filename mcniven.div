@@ -1,11 +1,11 @@
-<div itemscope itemtype="http://schema.org/Person">
+<span itemscope itemtype="http://schema.org/Person">
 	<span itemprop="givenName">Ronan</span>
 	<span itemprop="familyName">McNiven</span>
 	<span itemprop="jobTitle">Director</span>
     <span itemprop="url">https://www.mbb.ie/</span>
     
 	<span itemprop="owns">
-		<div itemscope itemtype="http://schema.org/LocalBusiness">
+		<span itemscope itemtype="http://schema.org/LocalBusiness">
 			<span itemprop="name">Midland Body Builders</span>
 			<span itemprop="address">Townspark Industrial Estate  Longford, Ireland</span>
 			<span itemprop="url">http://mbb.ie/></span>
@@ -13,24 +13,24 @@
         <span itemprop="hasMap">
 https://www.google.ie/maps/place/Townspark+Industrial+Estate,+Athlone+Rd,+Longford/@53.7239643,-7.8084752,17z/
 		</span>
-		</div>
+		</span>
 	</span>
 
 	<span itemprop="memberOf">
 
-		<div itemscope itemtype="http://schema.org/Organization">
+		<span itemscope itemtype="http://schema.org/Organization">
 			<span itemprop="name">Longford Swimming Club</span>
 			<span itemprop="address">The Mall, Longford, Ireland</span>
 			<span itemprop="url">http://longfordswimmingclub.com</span>
-		</div>
+		</span>
 
 	</span>
 	
 	<span itemprop="knows">
-		<div itemscope itemtype="http://schema.org/Person">
+		<span itemscope itemtype="http://schema.org/Person">
 			<span itemprop="givenName">Janet</span>
 			<span itemprop="familyName">McWeeney</span>
 		    <span itemprop="url">http://www.facebook.com/janet.mcweeney.71</span>
-		</div>
+		</span>
 	</span>
-</div>
+</span>

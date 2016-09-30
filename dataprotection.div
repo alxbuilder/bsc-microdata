@@ -1,17 +1,17 @@
-<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 	<span itemprop="name">Data Protection Commissioner</span>
 	<a itemprop="url" href="http://dataprotection.ie/"></a>
 	<span itemprop="description">Investigates complaints about misuse of data</span>
 
-	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 		<span itemprop="streetAddress">Station Road</span>
 		<span itemprop="addressLocality">Portarlington</span>
 		<span itemprop="addressRegion">Co. Laois</span>
 		<span itemprop="addressCountry">Ireland</span>
-	</div>
+	</span>
 
 	<span itemprop="memberOf">
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name" lang="ga_IE">Dáil Éireann</span>
 			<a itemprop="url" href="http://gov.ie/"></a>
 			<span itemprop="description">The Government of Ireland</span>
@@ -20,7 +20,7 @@
 				<span itemprop="addressLocality">Dublin</span>
 				<span itemprop="addressCountry">Ireland</span>
 			</span>
-		</div>
+		</span>
 	</span>
 
-</div>
+</span>
