@@ -1,6 +1,6 @@
-<div itemscope itemtype="http://schema.org/Person">
-	<span itemprop="givenName">Aidan</span>
-	<span itemprop="familyName">Moore</span>
+<span itemscope itemtype="http://schema.org/Person">
+	<span itemprop="givenName">Brian</span>
+	<span itemprop="familyName">McKeon</span>
 	<span itemprop="telephone">(01)6395600</span>
 	<span itemprop="faxNumber">(01)6395674</span>
 
@@ -9,18 +9,18 @@
 
 	<span itemprop="worksFor">
 
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name">The Office of the Ombudsman</span>
 			<a itemprop="url" href="http://ombudsman.gov.ie/"></a>
 			<span itemprop="description">Investigates complaints about public officials.</span>
-		</div>
+		</span>
 
-		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 			<span itemprop="streetAddress">18 Lower Leeson Street</span>
 			<span itemprop="addressLocality">Dublin</span>
 			<span itemprop="postalCode">D02 HE97</span>
 			<span itemprop="addressCountry">Ireland</span>
-		</div>
+		</span>
 	</span>
 
-</div>
+</span>

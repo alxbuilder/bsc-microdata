@@ -1,21 +1,21 @@
-<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 	<span itemprop="name">Longford Town Council</span>
 	<a itemprop="url" href="http://www.longfordcoco.ie/longfordtowncouncil.htm"></a>
 	<span itemprop="description">Longford Town Council</span>
 	<span itemprop="dissolutionDate">2014-06-01</span>
 
 	<span itemprop="employee">
-		<div itemscope itemtype="http://schema.org/Person">
+		<span itemscope itemtype="http://schema.org/Person">
 			<span itemprop="givenName">Dan</span>
 			<span itemprop="familyName">Rooney</span>
 			<span itemprop="telephone">(043)3341470</span>
 			<span itemprop="address">Knockahaw, Dublin Road, Longford</span>	
-		</div>
+		</span>
 	</span>
 	
 	<span itemprop="owns">
 
-		<div itemscope itemtype="http://schema.org/LocalBusiness">
+		<span itemscope itemtype="http://schema.org/LocalBusiness">
 			<a itemprop="url" href="http://longfordsportsandleisure.ie/">
 				<span itemprop="name">County Longford Sports and Leisure Centre</span>
 			</a>
@@ -33,4 +33,4 @@
 			</span>
 
 	</span>
-</div>
+</span>

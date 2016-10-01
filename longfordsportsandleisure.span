@@ -1,4 +1,4 @@
-<div itemscope itemtype="http://schema.org/LocalBusiness">
+<span itemscope itemtype="http://schema.org/LocalBusiness">
 	<a itemprop="url" href="http://longfordsportsandleisure.ie/">
 		<span itemprop="name">County Longford Sports and Leisure Centre</span>
 	</a>
@@ -16,18 +16,18 @@
 	</span>
 
 	<span itemprop="alumni">
-		<div itemscope itemtype="http://schema.org/Person">
+		<span itemscope itemtype="http://schema.org/Person">
 			<span itemprop="givenName">David</span>
 			<span itemprop="familyName">Sheridan</span>
 			<span itemprop="jobTitle">Director</span>
 		    <span itemprop="url">http://shipmytribike.ie/</span>
-		</div>
+		</span>
 	</span>	
 
 	<span itemprop="alumni">
-	<div itemscope itemtype="http://schema.org/Person">
+	<span itemscope itemtype="http://schema.org/Person">
 		<span itemprop="givenName">Barry</span>
 		<span itemprop="familyName">Hall</span>
 	    <span itemprop="url">https://www.facebook.com/barry.hall.14</span>
-	</div>
-</div>
+	</span>
+</span>

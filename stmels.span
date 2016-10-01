@@ -1,8 +1,8 @@
-<div itemscope itemtype="http://schema.org/EducationalOrganization">
+<span itemscope itemtype="http://schema.org/EducationalOrganization">
 	<span itemprop="name">St. Mel's College</span>
 	<span itemprop="address">Longford, Ireland</span>
 	<span itemprop="url">http://stmelscollege.ie</span>
 	<span itemprop="email">stmels@stmelscollege.ie</span>
 	<span itemprop="telephone">(043) 3346469</span>
 	<span itemprop="faxNumber">(043) 3346905</span>
-</div>
+</span>

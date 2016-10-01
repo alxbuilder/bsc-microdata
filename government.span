@@ -1,4 +1,4 @@
-<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 	<span itemprop="name" lang="ga_IE">Dáil Éireann</span>
 	<a itemprop="url" href="http://gov.ie/"></a>
 	<span itemprop="description">The Government of Ireland</span>
@@ -9,7 +9,7 @@
 	</span>
 
 	<span itemprop="member">
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name">Longford County Council</span>
 			<a itemprop="url" href="http://longfordcoco.ie/"></a>
 			<span itemprop="description">Longford County Council</span>
@@ -20,40 +20,40 @@
 				<span itemprop="postalCode">N39 NH56</span>
 				<span itemprop="addressCountry">Ireland</span>
 				<span itemprop="telephone">043 3343000</span>
-		</div>
+		</span>
 	</span>
 
 	<span itemprop="member">
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name">The Office of the Ombudsman</span>
 			<a itemprop="url" href="http://ombudsman.gov.ie/"></a>
 			<span itemprop="description">Investigates complaints about public officials.</span>
 
-			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress">18 Lower Leeson Street</span><br>
 				<span itemprop="addressLocality">Dublin</span><br>
 				<span itemprop="postalCode">D02 HE97</span><br>
 				<span itemprop="addressCountry">Ireland</span><br>
-			</div>
-		</div>
+			</span>
+		</span>
 	</span>
 
 	<span itemprop="member">
 
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span lang="ga_IE" itemprop="name">An Gárda Síochana</span>
 			<a itemprop="url" href="http://garda.ie/"></a>
 			<span itemprop="description">The Irish Police Force</span>
 
-			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress">Pheonix Park</span>
 				<span itemprop="addressLocality">Dublin</span>
 				<span itemprop="addressRegion">8</span>
 				<span itemprop="postalCode">D08 HN3X</span>
 				<span itemprop="addressCountry">Ireland</span>
 				<span itemprop="telephone">01 666 0000</span>
-			</div>
-		</div>
+			</span>
+		</span>
 	</span>
 		
-</div>
+</span>

@@ -1,4 +1,4 @@
-<div itemscope itemtype="http://schema.org/Person">
+<span itemscope itemtype="http://schema.org/Person">
 	<span itemprop="givenName">Mary</span>
 	<span itemprop="familyName">Denneny</span>
 	<span itemprop="jobTitle">Duty Manager</span>
@@ -27,12 +27,12 @@
 	</span>
 	
 	<span itemprop="knows">
-		<div itemscope itemtype="http://schema.org/Person">
+		<span itemscope itemtype="http://schema.org/Person">
 			<span itemprop="givenName">David</span>
 			<span itemprop="familyName">Sheridan</span>
 			<span itemprop="jobTitle">Director</span>
 		    <span itemprop="url">http://shipmytribike.ie/</span>
-		</div>
+		</span>
 	</span>
 	
 	<span itemprop="knows">
@@ -50,4 +50,4 @@
 	  <span itemprop="address">Knockahaw, Dublin Road, Longford</span>
 	</span>
 	
-	</div>
+	</span>

@@ -1,4 +1,4 @@
-<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 	<span itemprop="name">Longford County Council</span>
 	<a itemprop="url" href="http://longfordcoco.ie/"></a>
 	<span itemprop="description">Longford County Council</span>
@@ -13,7 +13,7 @@
 
 	<span itemprop="owns">
 
-		<div itemscope itemtype="http://schema.org/LocalBusiness">
+		<span itemscope itemtype="http://schema.org/LocalBusiness">
 			<a itemprop="url" href="http://longfordsportsandleisure.ie/">
 				<span itemprop="name">County Longford Sports and Leisure Centre</span>
 			</a>
@@ -29,12 +29,12 @@
 				<span itemprop="telephone">043 3346431</span>
 				<span itemprop="email">longfordsportscentre@eircom.net</span>
 			</span>
-		</div>
+		</span>
 	</span>
 	
 	<span itemprop="memberOf">
 
-		<div itemscope itemtype="http://schema.org/GovernmentOrganization">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name" lang="ga_IE">Dáil Éireann</span>
 			<a itemprop="url" href="http://gov.ie/"></a>
 			<span itemprop="description">The Government of Ireland</span>
@@ -43,7 +43,7 @@
 				<span itemprop="addressLocality">Dublin</span>
 				<span itemprop="addressCountry">Ireland</span>
 			</span>
-		</div>
+		</span>
 
 	</span>
-</div>
+</span>

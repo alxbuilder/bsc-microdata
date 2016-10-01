@@ -1,4 +1,4 @@
-<div itemscope itemtype="http://schema.org/Person">
+<span itemscope itemtype="http://schema.org/Person">
 	<span itemprop="givenName">David</span>
 	<span itemprop="familyName">Sheridan</span>
 	<span itemprop="givenName">Brian</span>
@@ -6,7 +6,7 @@
     <span itemprop="url">https://www.facebook.com/brian.gorman.129</span>
     
 	<span itemprop="owns">
-		<div itemscope itemtype="http://schema.org/LocalBusiness">
+		<span itemscope itemtype="http://schema.org/LocalBusiness">
 			<span itemprop="name">Ship My Tri Bike>/span>
 			<span itemprop="address">Suite 17, Redleaf House, Townspark, Co. Longford, Ireland</span>
            <span itemprop="url">http://shipmytribike.ie/></span>
@@ -14,11 +14,11 @@
         <span itemprop="hasMap">
 https://www.google.ie/maps/place/Redleaf+House/@53.7242402,-7.8034786,16z/
 		</span>
-		</div>
+		</span>
 	</span>
 	
 	<span itemprop="knows">
-		<div itemscope itemtype="http://schema.org/Person">
+		<span itemscope itemtype="http://schema.org/Person">
 		<span itemprop="givenName">Brian</span>
 		<span itemprop="familyName">Gorman</span>
 		<span itemprop="givenName">Brian</span>
@@ -26,4 +26,4 @@ https://www.google.ie/maps/place/Redleaf+House/@53.7242402,-7.8034786,16z/
 	    <span itemprop="url">https://www.facebook.com/brian.gorman.129</span>
 	</span>
 	
-</div>
+</span>

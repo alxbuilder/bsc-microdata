@@ -1,23 +1,23 @@
-<div itemscope itemtype="http://schema.org/EducationalOrganization">
+<span itemscope itemtype="http://schema.org/EducationalOrganization">
 	<span itemprop="name">Scoil Eimear</span>
 	<span itemprop="address">Longford, Ireland</span>
 	<span itemprop="url">http://homepage.eircom.net/~scoileimear/</span>
 	<span itemprop="email">scoileimear.ias@eircom.net</span>
 	<span itemprop="telephone">(043) 3341188</span>
 	
-	<div itemscope itemtype="http://schema.org/employee">
-		<div itemscope itemtype="http://schema.org/Person">
+	<span itemscope itemtype="http://schema.org/employee">
+		<span itemscope itemtype="http://schema.org/Person">
 			<span itemprop="givenName">Janet</span>
 			<span itemprop="familyName">McWeeney</span>
 			<span itemprop="url">http://www.facebook.com/janet.mcweeney.71</span>
-		</div>
-	</div>
+		</span>
+	</span>
 	
-	<div itemscope itemtype="http://schema.org/employee">
-		<div itemscope itemtype="http://schema.org/Person">
+	<span itemscope itemtype="http://schema.org/employee">
+		<span itemscope itemtype="http://schema.org/Person">
 			<span itemprop="givenName">Noeleen</span>
 			<span itemprop="familyName">Rooney</span>
-		</div>
-	</div>
+		</span>
+	</span>
 
-</div>
+</span>
