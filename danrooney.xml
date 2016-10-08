@@ -1,0 +1,36 @@
+<span class="microdata" itemscope itemtype="http://schema.org/Person">
+	<span itemprop="givenName">Dan</span>
+	<span itemprop="familyName">Rooney</span>
+	<span itemprop="telephone">(043)3341470</span>
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">Great Water Street</span>
+		<span itemprop="addressLocality">Longford</span>
+		<span itemprop="addressRegion">Co. Longford</span>
+		<span itemprop="postalCode">N39 NH56</span>
+		<span itemprop="addressCountry">Ireland</span>
+	</span>
+	
+	<span itemprop="worksFor">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+			<span itemprop="name">Longford Town Council</span>
+			<span itemprop="url">http://www.longfordcoco.ie/longfordtowncouncil.htm</span>
+			<span itemprop="description">Longford Town Council</span>
+			<span itemprop="dissolutionDate">2014-06-01</span>
+		</span>
+	</span>
+
+	<span itemprop="spouse">
+		<span itemscope itemtype="http://schema.org/Person">
+			<span itemprop="givenName">Noeleen</span>
+			<span itemprop="familyName">Rooney</span>
+			<span itemprop="telephone">(043)3341470</span>
+			<span itemprop="email">noeleenrooney@gaelic.ie</span>
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Great Water Street</span>
+				<span itemprop="addressLocality">Longford</span>
+				<span itemprop="addressRegion">Co. Longford</span>
+				<span itemprop="addressCountry">Ireland</span>
+			</span>
+		</span>
+	</span>
+</span>

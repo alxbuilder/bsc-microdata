@@ -1,0 +1,36 @@
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+	<span itemprop="name">Longford Town Council</span>
+	<a itemprop="url" href="http://www.longfordcoco.ie/longfordtowncouncil.htm"></a>
+	<span itemprop="description">Longford Town Council</span>
+	<span itemprop="dissolutionDate">2014-06-01</span>
+
+	<span itemprop="employee">
+		<span itemscope itemtype="http://schema.org/Person">
+			<span itemprop="givenName">Dan</span>
+			<span itemprop="familyName">Rooney</span>
+			<span itemprop="telephone">(043)3341470</span>
+			<span itemprop="address">Knockahaw, Dublin Road, Longford</span>	
+		</span>
+	</span>
+	
+	<span itemprop="owns">
+
+		<span itemscope itemtype="http://schema.org/LocalBusiness">
+			<a itemprop="url" href="http://longfordsportsandleisure.ie/">
+				<span itemprop="name">County Longford Sports and Leisure Centre</span>
+			</a>
+			<span itemprop="description">Public Sports Facility</span>
+
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">The Mall</span>
+				<span itemprop="addressLocality">Longford</span>
+				<span itemprop="addressRegion">Co. Longford</span>
+
+				<span itemprop="addressCountry">Ireland</span>
+				<span itemprop="telephone">043 3346536</span>
+				<span itemprop="telephone">043 3346431</span>
+				<span itemprop="email">longfordsportscentre@eircom.net</span>
+			</span>
+
+	</span>
+</span>

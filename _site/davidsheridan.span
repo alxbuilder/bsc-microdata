@@ -1,53 +1,21 @@
-<span class="microdata" itemscope itemtype="http://schema.org/Person">
-	<span itemprop="givenName">Brian</span>
-	<span itemprop="familyName">Gorman</span>
-	<span itemprop="givenName">Brian</span>
-	<span itemprop="jobTitle">Carpenter, Joiner</span>
-    <span itemprop="url">https://www.facebook.com/brian.gorman.129</span>
-    
-	<span itemprop="owns">
-		<span itemscope itemtype="http://schema.org/LocalBusiness">
-			<span itemprop="name">Lough Rynn Gatehouse Bed and Breakfast</span>
-			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-				<span itemprop="streetAddress">Rynn</span>
-				<span itemprop="addressLocality">Mohill</span>
-				<span itemprop="addressRegion">Co. Leitrim</span>
-				<span itemprop="addressCountry">Ireland</span>
-			</span>
-			<span itemprop="url">http://www.loughrynngatehousebandb.ie/></span>
-			<span itemprop="hasMap">
-		https://www.google.ie/maps/@53.904477,-7.850177,17z
-			</span>
-		</span>
-	</span>
-	
 <span itemscope itemtype="http://schema.org/Person">
 	<span itemprop="givenName">David</span>
 	<span itemprop="familyName">Sheridan</span>
+	<span itemprop="givenName">Brian</span>
 	<span itemprop="jobTitle">Director</span>
     <span itemprop="url">https://www.facebook.com/brian.gorman.129</span>
     
 	<span itemprop="owns">
 		<span itemscope itemtype="http://schema.org/LocalBusiness">
 			<span itemprop="name">Ship My Tri Bike>/span>
-			<span itemprop="url">http://shipmytribike.ie/</span>
-			<span itemprop="description">Triathlon Bike Delivery Service</span>
-			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-					<span itemprop="streetAddress">Suite 17 Redleaf House, Townspark Industrial Estate</span>
-					<span itemprop="addressLocality">Longford</span>
-					<span itemprop="addressRegion">Co. Longford</span>
-					<span itemprop="postalCode">N39 NH56</span>
-					<span itemprop="addressCountry">Ireland</span>
-					<span itemprop="telephone">043 3343000</span>
-				</span>		
-				<span itemprop="url">http://shipmytribike.ie/></span>
-		 		<span itemprop="url">https://www.facebook.com/shipmy.tribike/</span>
-				<span itemprop="hasMap">
-		https://www.google.ie/maps/place/Redleaf+House/@53.7242402,-7.8034786,16z/
-				</span>
-			</span>
-			<span itemprop="telephone">(083)3068781</span>
+			<span itemprop="address">Suite 17, Redleaf House, Townspark, Co. Longford, Ireland</span>
+           <span itemprop="url">http://shipmytribike.ie/></span>
+           <span itemprop="url">https://www.facebook.com/shipmy.tribike/</span>
+        <span itemprop="hasMap">
+https://www.google.ie/maps/place/Redleaf+House/@53.7242402,-7.8034786,16z/
 		</span>
+		</span>
+	</span>
 	
 	<span itemprop="knows">
 		<span itemscope itemtype="http://schema.org/Person">
@@ -69,7 +37,7 @@
 
 		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
 			<span itemprop="name">Longford Town Council</span>
-			<span itemprop="url">http://www.longfordcoco.ie/longfordtowncouncil.htm</span>
+			<a itemprop="url" href="http://www.longfordcoco.ie/longfordtowncouncil.htm"></a>
 			<span itemprop="description">Longford Town Council</span>
 			<span itemprop="dissolutionDate">2014-06-01</span>
 		</span>
@@ -136,5 +104,4 @@
 </span>
 </span>
 
-</span>
 </span>

@@ -1,0 +1,24 @@
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+	<span itemprop="name">Data Protection Commissioner</span>
+	<span itemprop="url">http://dataprotection.ie/</span>
+	<span itemprop="description">Investigates complaints about misuse of data</span>
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">Station Road</span>
+		<span itemprop="addressLocality">Portarlington</span>
+		<span itemprop="addressRegion">Co. Laois</span>
+		<span itemprop="addressCountry">Ireland</span>
+	</span>
+
+	<span itemprop="memberOf">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+			<span itemprop="name" lang="en-ie">Dáil Éireann</span>
+			<span itemprop="url">http://gov.ie/</span>
+			<span itemprop="description">The Government of Ireland</span>
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">Kildare Street</span>
+					<span itemprop="addressLocality">Dublin</span>
+					<span itemprop="addressCountry">Ireland</span>
+			</span>
+		</span>
+	</span>
+</span>

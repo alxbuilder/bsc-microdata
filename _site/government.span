@@ -1,0 +1,59 @@
+<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+	<span itemprop="name" lang="ga_IE">Dáil Éireann</span>
+	<a itemprop="url" href="http://gov.ie/"></a>
+	<span itemprop="description">The Government of Ireland</span>
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">Kildare Street</span>
+		<span itemprop="addressLocality">Dublin</span>
+		<span itemprop="addressCountry">Ireland</span>
+	</span>
+
+	<span itemprop="member">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+			<span itemprop="name">Longford County Council</span>
+			<a itemprop="url" href="http://longfordcoco.ie/"></a>
+			<span itemprop="description">Longford County Council</span>
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Great Water Street</span>
+				<span itemprop="addressLocality">Longford</span>
+				<span itemprop="addressRegion">Co. Longford</span>
+				<span itemprop="postalCode">N39 NH56</span>
+				<span itemprop="addressCountry">Ireland</span>
+				<span itemprop="telephone">043 3343000</span>
+		</span>
+	</span>
+
+	<span itemprop="member">
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+			<span itemprop="name">The Office of the Ombudsman</span>
+			<a itemprop="url" href="http://ombudsman.gov.ie/"></a>
+			<span itemprop="description">Investigates complaints about public officials.</span>
+
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">18 Lower Leeson Street</span><br>
+				<span itemprop="addressLocality">Dublin</span><br>
+				<span itemprop="postalCode">D02 HE97</span><br>
+				<span itemprop="addressCountry">Ireland</span><br>
+			</span>
+		</span>
+	</span>
+
+	<span itemprop="member">
+
+		<span itemscope itemtype="http://schema.org/GovernmentOrganization">
+			<span lang="ga_IE" itemprop="name">An Gárda Síochana</span>
+			<a itemprop="url" href="http://garda.ie/"></a>
+			<span itemprop="description">The Irish Police Force</span>
+
+			<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Pheonix Park</span>
+				<span itemprop="addressLocality">Dublin</span>
+				<span itemprop="addressRegion">8</span>
+				<span itemprop="postalCode">D08 HN3X</span>
+				<span itemprop="addressCountry">Ireland</span>
+				<span itemprop="telephone">01 666 0000</span>
+			</span>
+		</span>
+	</span>
+		
+</span>
